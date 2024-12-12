@@ -213,3 +213,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.iterato
 [12Dec2024 05:07:17.945] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /[::1]:50716: Failed to verify username!
 [12Dec2024 05:07:17.947] [User Authenticator #1/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'tuforwi' tried to join with an invalid session
 [12Dec2024 05:07:17.987] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /[::1]:50716 lost connection: Failed to verify username!
+[12Dec2024 05:34:09.894] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /[::1]:42674: Failed to verify username!
+[12Dec2024 05:34:09.895] [User Authenticator #2/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'tuforwi' tried to join with an invalid session
+[12Dec2024 05:34:09.937] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /[::1]:42674 lost connection: Failed to verify username!
+[12Dec2024 05:34:13.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Dec2024 05:34:13.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdaasd<--[HERE]
